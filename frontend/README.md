@@ -1,34 +1,34 @@
-# frontend
+# To Do List Vue
 
-## Project setup
+Este é um projeto de lista de tarefas simples criado com Vue.js.
+
+## Baixando Depedências
+
+Antes de baixar a configuração seu projeto, temos que ter instalado o [Node.js](https://nodejs.org/en) versão 18.3 ou superior
+
+1. Instalando CLI do vue
+```bash
+npm install -g @vue/cli
 ```
+
+## Configuração do Projeto
+
+Siga estas etapas:
+
+1. Clone o repositório ou faça o download do código-fonte.
+2. Abra um terminal e navegue até o diretório do projeto.
+3. Execute o seguinte comando para instalar as dependências:
+
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+## Execução
+
+Para iniciar o servidor de desenvolvimento, execute:
+
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Isso iniciará o servidor em `http://localhost:8080/`.
