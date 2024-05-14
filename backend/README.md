@@ -1,4 +1,4 @@
-## Backend do curso treinamento de Vue.js 3
+## # Configuração do Projeto BackEnd
 
 Backend pré-pronto do curso treinamento de Vue.js 3
 

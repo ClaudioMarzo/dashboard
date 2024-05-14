@@ -1,6 +1,4 @@
-# To Do List Vue
-
-Este é um projeto de lista de tarefas simples criado com Vue.js.
+# Configuração do Projeto FrontEnd
 
 ## Baixando Depedências
 
